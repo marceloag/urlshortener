@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "http://marceloag.github.io/urlshortener/static/css/main.6f03fb00.css",
-    "main.js": "http://marceloag.github.io/urlshortener/static/js/main.60da2506.js",
-    "static/media/illustration-working.svg": "http://marceloag.github.io/urlshortener/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
-    "static/media/logo.svg": "http://marceloag.github.io/urlshortener/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
-    "static/media/bg-boost-desktop.svg": "http://marceloag.github.io/urlshortener/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
-    "index.html": "http://marceloag.github.io/urlshortener/index.html",
-    "static/media/bg-shorten-desktop.svg": "http://marceloag.github.io/urlshortener/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b.svg",
-    "main.6f03fb00.css.map": "http://marceloag.github.io/urlshortener/static/css/main.6f03fb00.css.map",
-    "main.60da2506.js.map": "http://marceloag.github.io/urlshortener/static/js/main.60da2506.js.map"
+    "main.css": "https://marceloag.github.io/urlshortener/static/css/main.46b5871a.css",
+    "main.js": "https://marceloag.github.io/urlshortener/static/js/main.452782eb.js",
+    "static/media/illustration-working.svg": "https://marceloag.github.io/urlshortener/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/logo.svg": "https://marceloag.github.io/urlshortener/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "static/media/bg-boost-desktop.svg": "https://marceloag.github.io/urlshortener/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
+    "index.html": "https://marceloag.github.io/urlshortener/index.html",
+    "static/media/bg-shorten-desktop.svg": "https://marceloag.github.io/urlshortener/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b.svg",
+    "main.46b5871a.css.map": "https://marceloag.github.io/urlshortener/static/css/main.46b5871a.css.map",
+    "main.452782eb.js.map": "https://marceloag.github.io/urlshortener/static/js/main.452782eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f03fb00.css",
-    "static/js/main.60da2506.js"
+    "static/css/main.46b5871a.css",
+    "static/js/main.452782eb.js"
   ]
 }
